@@ -36,7 +36,6 @@
 
 <div align="center">
   <h2>🐍 Minhas contribuições 🐍</h2>
-  <br>
   <img alt="snake eating my contributions" src="https://github.com/BrunoDuranTeodoro/BrunoDuranTeodoro/blob/output/github-snake-dark.svg" />
   <br/><br/><br/>
 </div>
