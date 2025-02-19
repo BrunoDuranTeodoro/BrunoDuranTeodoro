@@ -1,4 +1,4 @@
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; text-align: center; width: 100%;">
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100px; text-align: center; width: 100%;">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" style="width: 200px; margin-bottom: 20px;">
   
   <h1 style="display: flex; justify-content: center; width: 100%;">
