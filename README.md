@@ -1,11 +1,11 @@
-
-<div>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="top" margin="100px">
-
-<h1 align="center">
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" style="min-width: 200px; max-width: 200px; width: 200px; margin-right: 20px;" align="top">
+  
+  <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;'Meu+nome+é+Bruno+Duran!';" />
-</h1>
+  </h1>
 </div>
+
 <h3 align="center">Programador e Editor de video</h3>
 
 <br/>
