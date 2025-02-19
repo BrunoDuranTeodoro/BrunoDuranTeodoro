@@ -1,8 +1,12 @@
+<div style="text-align: center; padding-right: 1000px;">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador">
+</div>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-  <h1 style="display: flex; justify-content: center; width: 100%;">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;'Meu+nome+é+Bruno+Duran!';" />
-  </h1>
-
+## 🌟 Apresentação
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;'I+am+Kelvin+Negrini!';" />
+</h1>
 
 
 
