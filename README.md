@@ -4,9 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;'Meu+nome+é+Bruno+Duran!';" />
 </h1>
 
-<h3 align="center">Programador.</h3>
-<h2 align="center">e</h2>
-<h3 align="center">Editor de Video</h3>
+<h3 align="center">Programador e Editor de video</h3>
 
 <br/>
 
@@ -18,15 +16,20 @@
   </a>
 
   </a>
-<a href="https://www.instagram.com/kelnegrini_" target="_blank">
+<a href="https://www.instagram.com/bruno.thz016" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+</a>
+
+ </a>
+<a href="[https://www.instagram.com/bruno.thz01](https://wa.me/5516988282024)" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
 </a>
 
 </div>
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Linguagens e Ferramentas ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
