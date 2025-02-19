@@ -1,10 +1,12 @@
-<div style="display: flex; align-items: center; justify-content: center; height: 100vh; text-align: center;">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" style="min-width: 200px; max-width: 200px; width: 200px; margin-right: 20px;">
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; text-align: center;">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" style="width: 200px; margin-bottom: 20px;">
   
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;'Meu+nome+é+Bruno+Duran!';" />
   </h1>
 </div>
+
+
 
 
 
