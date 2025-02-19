@@ -1,3 +1,5 @@
+
+<div>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="left">
 
 <h1 align="center">
@@ -5,7 +7,7 @@
 </h1>
 
 <h3 align="center">Programador e Editor de video</h3>
-
+</div>
 <br/>
 
 
