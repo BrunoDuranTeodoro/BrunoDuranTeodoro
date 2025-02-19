@@ -1,10 +1,7 @@
-<div>
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" style="align: center; padding-right: 500px;">
-</div>
 
 ## 🌟 Apresentação
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;'I+am+Kelvin+Negrini!';" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá, tudo bem?+👋;'Meu nome é Bruno Duran';" />
 </h1>
 
 
