@@ -1,7 +1,6 @@
-<div style="text-align: center; padding-right: 1000px;">
+<div style="align: center; padding-right: 500px;">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador">
 </div>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 ## 🌟 Apresentação
 <h1 align="center">
