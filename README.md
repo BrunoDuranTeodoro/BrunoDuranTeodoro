@@ -1,10 +1,9 @@
-<div>
+
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100px; text-align: center; width: 30%;>
   
   <h1 style="display: flex; justify-content: center; width: 100%;">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;'Meu+nome+é+Bruno+Duran!';" />
   </h1>
-</div>
 
 
 
