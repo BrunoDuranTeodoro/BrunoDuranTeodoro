@@ -1,5 +1,5 @@
-<div style="align: center; padding-right: 500px;">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador">
+<div>
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" style="align: center; padding-right: 500px;">
 </div>
 
 ## 🌟 Apresentação
