@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Ol%C3%A1,+tudo+bem?+%F0%9F%98%84;Meu+nome+%C3%A9+Bruno+Duran🤷‍♂️;+Sou+Programador+Junior🎮;e+Editor+de+videos📽️" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Ol%C3%A1,+tudo+bem?+%F0%9F%98%84;Meu+nome+%C3%A9+Bruno+Duran🤷‍♂️;+Sou+Programador+Junior+Back+-+End🎮" />
 </h1>
 
 <h3 align="center">Desenvolvedor Junior Back-End</h3>
