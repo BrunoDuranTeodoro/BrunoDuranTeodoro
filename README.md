@@ -26,9 +26,9 @@
 <h2 align="center">⚒️ Linguagens e Ferramentas ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,apple,arduino,discord,eclipse,linux,visualstudio,wordpress" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,wordpress" />
   <hr/>
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,c,java,mysql,flask,autocad,azure,cs,cloudflare,kafka,sqlite,spring" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,java,mysql,sqlite,spring" />
 </div>
 
 <br/>
